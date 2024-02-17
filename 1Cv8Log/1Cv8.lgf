@@ -97,4 +97,9 @@
 {5,2780b077-01fa-4d44-82a5-ac4dbdef92b0,"Документ.Премия",42},
 {4,"_$Job$_.Start",23},
 {4,"_$Job$_.Finish",24},
-{4,"_$Job$_.Cancel",25}
+{4,"_$Job$_.Cancel",25},
+{3,"WebClient",4},
+{3,"HTTPServiceConnection",5},
+{4,"_$User$_.Update",26},
+{4,"_$User$_.Delete",27},
+{1,0f2f96b8-4d37-4113-afee-eafa3c16fafc,"MobileClient",3}
